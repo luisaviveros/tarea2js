@@ -14,9 +14,5 @@ if (valor1 > valor2 && valor1 > valor3) {
 else if (valor2 > valor1 && valor2 > valor3) {
     parrafo.innerHTML = "el valor mas grande es " + valor2;
 }
-else if (valor3 > valor1 && valor3 > valor2) {
+else if {
     parrafo.innerHTML = "el valor mas grande es " + valor3;
-}
-else {
-    parrafo.innerHTML = "los valores son igual es";
-}
